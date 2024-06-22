@@ -1,0 +1,2 @@
+# Praticando ensinamentos do curso de Java Basico utilizando Classe e Metodos
+## Neste exemplo utilizamos classe, metodos e operadores lógicos para desenvolver um sistema de Televisão que Liga, Desliga, Aumenta Volume, Diminui Volume e muda de canal.
