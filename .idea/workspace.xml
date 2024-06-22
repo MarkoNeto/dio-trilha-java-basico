@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f571a134-7ed1-478d-b132-4a48fc35cb24" name="Changes" comment="" />
+    <list default="true" id="f571a134-7ed1-478d-b132-4a48fc35cb24" name="Changes" comment="add new repository" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,14 +17,19 @@
   "associatedIndex": 1
 }]]></component>
   <component name="ProjectId" id="2iFCha1G9dJLGvD0WExk5wha8iw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "E:/CursoSantander/projetos/dio-trilha-java-basico/src/main/java/edu/markoneto/Main.java"
@@ -39,17 +44,55 @@
       <option name="presentableId" value="Default" />
       <updated>1719077066114</updated>
     </task>
+    <task id="LOCAL-00001" summary="add new repository">
+      <option name="closed" value="true" />
+      <created>1719077111705</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719077111705</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add new repository">
+      <option name="closed" value="true" />
+      <created>1719077203283</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719077203283</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add new repository">
+      <option name="closed" value="true" />
+      <created>1719077229058</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719077229058</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add new repository">
+      <option name="closed" value="true" />
+      <created>1719077440583</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719077440583</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/edu/markoneto/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add new repository" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new repository" />
   </component>
 </project>
