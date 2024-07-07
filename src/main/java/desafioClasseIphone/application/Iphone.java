@@ -1,8 +1,8 @@
-package edu.markoneto.desafioClasseIphone.application;
+package desafioClasseIphone.application;
 
-import edu.markoneto.desafioClasseIphone.interfaces.AparelhoTelefonico;
-import edu.markoneto.desafioClasseIphone.interfaces.NavegadorInternet;
-import edu.markoneto.desafioClasseIphone.interfaces.ReprodutorMusical;
+import desafioClasseIphone.interfaces.AparelhoTelefonico;
+import desafioClasseIphone.interfaces.NavegadorInternet;
+import desafioClasseIphone.interfaces.ReprodutorMusical;
 
 import java.util.Scanner;
 

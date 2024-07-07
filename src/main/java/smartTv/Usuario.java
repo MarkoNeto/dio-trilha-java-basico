@@ -1,4 +1,4 @@
-package edu.markoneto.smartTv;
+package smartTv;
 
 public class Usuario {
     public static void main(String[] args) throws Exception {

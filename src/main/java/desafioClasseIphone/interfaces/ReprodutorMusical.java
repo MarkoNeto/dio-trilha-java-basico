@@ -1,4 +1,4 @@
-package edu.markoneto.desafioClasseIphone.interfaces;
+package desafioClasseIphone.interfaces;
 
 public interface ReprodutorMusical {
 

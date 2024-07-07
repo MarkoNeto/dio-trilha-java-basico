@@ -53,11 +53,19 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\CursoDIO\dio-trilha-java-basico\src\main\java\edu\markoneto\iphone\interfaces" />
       <recent name="E:\CursoSantander\projetos\dio-trilha-java-basico\dio-trilha-java-basico\src\main\sistema-smart-tv" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\CursoSantander\projetos\dio-trilha-java-basico\dio-trilha-java-basico\src\main\java\edu\markoneto\smartTv" />
       <recent name="E:\CursoSantander\projetos\dio-trilha-java-basico\dio-trilha-java-basico\src\main\java\edu\markoneto" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="edu" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.markoneto.iphone.application" />
     </key>
   </component>
   <component name="RunManager">

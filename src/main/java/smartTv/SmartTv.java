@@ -1,4 +1,4 @@
-package edu.markoneto.smartTv;
+package smartTv;
 
 public class SmartTv {
     boolean ligada = false;
