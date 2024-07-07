@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f571a134-7ed1-478d-b132-4a48fc35cb24" name="Changes" comment="add new repository">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/markoneto/smartTv/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="f571a134-7ed1-478d-b132-4a48fc35cb24" name="Changes" comment="add new files to project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,19 +37,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Usuario.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/CursoSantander/projetos/dio-trilha-java-basico/dio-trilha-java-basico/src/main/sistema-smart-tv&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;E:/CursoSantander/projetos/dio-trilha-java-basico/src/main/java/edu/markoneto/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Iphone.executor": "Run",
+    "Application.Usuario.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/CursoDIO/dio-trilha-java-basico/src/main/java/edu/markoneto/iphone/interfaces",
+    "onboarding.tips.debug.path": "E:/CursoSantander/projetos/dio-trilha-java-basico/src/main/java/edu/markoneto/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\CursoSantander\projetos\dio-trilha-java-basico\dio-trilha-java-basico\src\main\sistema-smart-tv" />
@@ -141,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719088256040</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add new files to project">
+      <option name="closed" value="true" />
+      <created>1720372506451</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1720372506451</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,6 +165,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add new repository" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new repository" />
+    <MESSAGE value="add new files to project" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new files to project" />
   </component>
 </project>
